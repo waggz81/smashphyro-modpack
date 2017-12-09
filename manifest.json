@@ -3,7 +3,7 @@
     "version": "1.12.2",
     "modLoaders": [
       {
-        "id": "forge-14.23.1.2559",
+        "id": "forge-14.23.1.2562",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Smashphyro",
-  "version": "17.1206.03",
+  "version": "17.1208.01",
   "author": "waggz81",
   "files": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "projectID": 74072,
-      "fileID": 2490867,
+      "fileID": 2507737,
       "required": true
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "projectID": 241721,
-      "fileID": 2500386,
+      "fileID": 2506796,
       "required": true
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 2506235,
+      "fileID": 2507287,
       "required": true
     },
     {
@@ -141,7 +141,7 @@
     },
     {
       "projectID": 69163,
-      "fileID": 2506198,
+      "fileID": 2506466,
       "required": true
     },
     {
@@ -176,12 +176,12 @@
     },
     {
       "projectID": 231095,
-      "fileID": 2505860,
+      "fileID": 2506644,
       "required": true
     },
     {
       "projectID": 228404,
-      "fileID": 2496940,
+      "fileID": 2507197,
       "required": true
     },
     {
@@ -251,7 +251,7 @@
     },
     {
       "projectID": 223525,
-      "fileID": 2505594,
+      "fileID": 2507031,
       "required": true
     },
     {
@@ -286,7 +286,7 @@
     },
     {
       "projectID": 277064,
-      "fileID": 2505473,
+      "fileID": 2506916,
       "required": true
     },
     {
@@ -311,7 +311,7 @@
     },
     {
       "projectID": 244258,
-      "fileID": 2506211,
+      "fileID": 2506508,
       "required": true
     },
     {
@@ -341,7 +341,7 @@
     },
     {
       "projectID": 253449,
-      "fileID": 2496991,
+      "fileID": 2506337,
       "required": true
     },
     {
@@ -467,6 +467,21 @@
     {
       "projectID": 254241,
       "fileID": 2496911,
+      "required": true
+    },
+    {
+      "projectID": 225194,
+      "fileID": 2491032,
+      "required": true
+    },
+    {
+      "projectID": 230497,
+      "fileID": 2450900,
+      "required": true
+    },
+    {
+      "projectID": 223852,
+      "fileID": 2484308,
       "required": true
     }
   ],
