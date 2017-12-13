@@ -1,0 +1,3 @@
+mipmapLevels:0
+autoJump:false
+bobView:false

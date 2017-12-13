@@ -176,6 +176,98 @@
 					1
 				]
 			}
-		}
+		},
+		 "platinum": {
+            "distribution": "uniform",
+            "generator": {
+                "block": {
+                    "name": "thermalfoundation:ore",
+                    "metadata": 6
+                },
+                "material": "stone",
+                "cluster-size": 4
+            },
+            "cluster-count": 2,
+            "min-height": 4,
+            "max-height": 20,
+            "retrogen": "true",
+            "biome": "all",
+            "dimension": {
+                "restriction": "blacklist",
+                "value": [
+                    -1,
+                    1
+                ]
+            }
+        },
+        "aluminum": {
+            "distribution": "uniform",
+            "generator": {
+                "block": {
+                    "name": "thermalfoundation:ore",
+                    "metadata": 4
+                },
+                "material": "stone",
+                "cluster-size": 8
+            },
+            "cluster-count": 4,
+            "min-height": 20,
+            "max-height": 60,
+            "retrogen": "true",
+            "biome": "all",
+            "dimension": {
+                "restriction": "blacklist",
+                "value": [
+                    -1,
+                    1
+                ]
+            }
+        },
+		"mithril": {
+            "distribution": "uniform",
+            "generator": {
+                "block": {
+                    "name": "thermalfoundation:ore",
+                    "metadata": 8
+                },
+                "material": "stone",
+                "cluster-size": 4
+            },
+            "cluster-count": 2,
+            "min-height": 4,
+            "max-height": 20,
+            "retrogen": "true",
+            "biome": "all",
+            "dimension": {
+                "restriction": "blacklist",
+                "value": [
+                    -1,
+                    1
+                ]
+            }
+        },
+        "iridium": {
+            "distribution": "uniform",
+            "generator": {
+                "block": {
+                    "name": "thermalfoundation:ore",
+                    "metadata": 7
+                },
+                "material": "stone",
+                "cluster-size": 4
+            },
+            "cluster-count": 2,
+            "min-height": 4,
+            "max-height": 20,
+            "retrogen": "true",
+            "biome": "all",
+            "dimension": {
+                "restriction": "blacklist",
+                "value": [
+                    -1,
+                    1
+                ]
+            }
+        }
 	}
 }

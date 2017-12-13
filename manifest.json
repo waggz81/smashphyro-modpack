@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Smashphyro",
-  "version": "17.1210.01",
+  "version": "17.1212.01",
   "author": "waggz81",
   "files": [
     {
@@ -51,12 +51,12 @@
     },
     {
       "projectID": 266515,
-      "fileID": 2505784,
+      "fileID": 2508977,
       "required": true
     },
     {
       "projectID": 241721,
-      "fileID": 2506796,
+      "fileID": 2509051,
       "required": true
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 2507874,
+      "fileID": 2508916,
       "required": true
     },
     {
@@ -171,7 +171,7 @@
     },
     {
       "projectID": 235279,
-      "fileID": 2479333,
+      "fileID": 2508481,
       "required": true
     },
     {
@@ -256,17 +256,17 @@
     },
     {
       "projectID": 53686,
-      "fileID": 2500965,
+      "fileID": 2508832,
       "required": true
     },
     {
       "projectID": 223896,
-      "fileID": 2490859,
+      "fileID": 2508318,
       "required": true
     },
     {
       "projectID": 223891,
-      "fileID": 2490863,
+      "fileID": 2508587,
       "required": true
     },
     {
@@ -281,7 +281,7 @@
     },
     {
       "projectID": 250398,
-      "fileID": 2497510,
+      "fileID": 2509063,
       "required": true
     },
     {
@@ -311,7 +311,7 @@
     },
     {
       "projectID": 244258,
-      "fileID": 2506508,
+      "fileID": 2508665,
       "required": true
     },
     {
@@ -486,7 +486,12 @@
     },
     {
       "projectID": 236542,
-      "fileID": 2504929,
+      "fileID": 2509078,
+      "required": true
+    },
+    {
+      "projectID": 226670,
+      "fileID": 2436231,
       "required": true
     }
   ],
