@@ -3,7 +3,7 @@
     "version": "1.12.2",
     "modLoaders": [
       {
-        "id": "forge-14.23.1.2583",
+        "id": "forge-14.23.1.2584",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Smashphyro",
-  "version": "18.0102.01",
+  "version": "18.0107.01",
   "author": "waggz81",
   "files": [
     {
@@ -31,7 +31,7 @@
     },
     {
       "projectID": 256141,
-      "fileID": 2514711,
+      "fileID": 2516659,
       "required": true
     },
     {
@@ -51,12 +51,12 @@
     },
     {
       "projectID": 266515,
-      "fileID": 2514257,
+      "fileID": 2516439,
       "required": true
     },
     {
       "projectID": 241721,
-      "fileID": 2509051,
+      "fileID": 2506796,
       "required": true
     },
     {
@@ -86,12 +86,12 @@
     },
     {
       "projectID": 238222,
-      "fileID": 2515960,
+      "fileID": 2516975,
       "required": true
     },
     {
       "projectID": 59751,
-      "fileID": 2514000,
+      "fileID": 2517069,
       "required": true
     },
     {
@@ -101,7 +101,7 @@
     },
     {
       "projectID": 70492,
-      "fileID": 2495323,
+      "fileID": 2516215,
       "required": true
     },
     {
@@ -131,7 +131,7 @@
     },
     {
       "projectID": 222880,
-      "fileID": 2516084,
+      "fileID": 2516252,
       "required": true
     },
     {
@@ -141,12 +141,12 @@
     },
     {
       "projectID": 69163,
-      "fileID": 2516137,
+      "fileID": 2516516,
       "required": true
     },
     {
       "projectID": 227443,
-      "fileID": 2516086,
+      "fileID": 2516538,
       "required": true
     },
     {
@@ -171,12 +171,12 @@
     },
     {
       "projectID": 235279,
-      "fileID": 2511503,
+      "fileID": 2516679,
       "required": true
     },
     {
       "projectID": 231095,
-      "fileID": 2506644,
+      "fileID": 2516302,
       "required": true
     },
     {
@@ -216,12 +216,12 @@
     },
     {
       "projectID": 233105,
-      "fileID": 2514045,
+      "fileID": 2516349,
       "required": true
     },
     {
       "projectID": 224641,
-      "fileID": 2514444,
+      "fileID": 2516350,
       "required": true
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "projectID": 240950,
-      "fileID": 2514030,
+      "fileID": 2516650,
       "required": true
     },
     {
@@ -276,7 +276,7 @@
     },
     {
       "projectID": 65764,
-      "fileID": 2497557,
+      "fileID": 2517019,
       "required": true
     },
     {
@@ -316,7 +316,7 @@
     },
     {
       "projectID": 32274,
-      "fileID": 2514298,
+      "fileID": 2498312,
       "required": true
     },
     {
@@ -376,7 +376,7 @@
     },
     {
       "projectID": 255232,
-      "fileID": 2498186,
+      "fileID": 2516440,
       "required": true
     },
     {
@@ -441,7 +441,7 @@
     },
     {
       "projectID": 224218,
-      "fileID": 2515044,
+      "fileID": 2516780,
       "required": true
     },
     {
@@ -486,7 +486,7 @@
     },
     {
       "projectID": 236542,
-      "fileID": 2514736,
+      "fileID": 2517132,
       "required": true
     },
     {
