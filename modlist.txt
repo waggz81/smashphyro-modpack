@@ -35,7 +35,7 @@ environmentaltech-1.12.2-2.0.7b.jar
 etlunar-1.12.2-2.0.7a.jar
 EvilCraft-1.12.2-0.10.45.jar
 Exchangers-1.12.2-2.6.2.jar
-extrautils2-1.12-1.7.3.jar
+extrautils2-1.12-1.7.2.jar
 fairylights-2.1.2-1.12.x.jar
 forestry_1.12.2-5.7.0.238.jar
 Forgelin-1.6.0.jar

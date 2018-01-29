@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Smashphyro",
-  "version": "18.0129.02",
+  "version": "18.0129.03",
   "author": "waggz81",
   "files": [
     {
@@ -421,7 +421,7 @@
     },
     {
       "projectID": 225561,
-      "fileID": 2524524,
+      "fileID": 2512406,
       "required": true
     },
     {
