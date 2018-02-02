@@ -3,7 +3,7 @@
     "version": "1.12.2",
     "modLoaders": [
       {
-        "id": "forge-14.23.1.2604",
+        "id": "forge-14.23.1.2608",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Smashphyro",
-  "version": "18.0129.03",
+  "version": "18.0202.01",
   "author": "waggz81",
   "files": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "projectID": 74072,
-      "fileID": 2510691,
+      "fileID": 2518400,
       "required": true
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "projectID": 223794,
-      "fileID": 2525252,
+      "fileID": 2525654,
       "required": true
     },
     {
@@ -51,12 +51,12 @@
     },
     {
       "projectID": 266515,
-      "fileID": 2520927,
+      "fileID": 2525619,
       "required": true
     },
     {
       "projectID": 241721,
-      "fileID": 2506796,
+      "fileID": 2523583,
       "required": true
     },
     {
@@ -71,22 +71,17 @@
     },
     {
       "projectID": 232758,
-      "fileID": 2519785,
+      "fileID": 2526291,
       "required": true
     },
     {
       "projectID": 74610,
-      "fileID": 2522126,
+      "fileID": 2526301,
       "required": true
     },
     {
       "projectID": 223094,
       "fileID": 2482481,
-      "required": true
-    },
-    {
-      "projectID": 238222,
-      "fileID": 2517641,
       "required": true
     },
     {
@@ -111,7 +106,7 @@
     },
     {
       "projectID": 227639,
-      "fileID": 2505472,
+      "fileID": 2526281,
       "required": true
     },
     {
@@ -181,7 +176,7 @@
     },
     {
       "projectID": 228404,
-      "fileID": 2520975,
+      "fileID": 2526272,
       "required": true
     },
     {
@@ -421,7 +416,7 @@
     },
     {
       "projectID": 225561,
-      "fileID": 2512406,
+      "fileID": 2524524,
       "required": true
     },
     {
@@ -502,6 +497,11 @@
     {
       "projectID": 257229,
       "fileID": 2523861,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 2522813,
       "required": true
     }
   ],
