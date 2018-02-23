@@ -8,3 +8,7 @@ recipes.removeShapeless(<tconstruct:soil> * 2, [<minecraft:clay_ball>, <minecraf
 ## add grout recipes with obsidian
 recipes.addShapeless(<tconstruct:soil> * 8, [<ore:gravel>, <ore:sand>, <ore:gravel>, <minecraft:obsidian>, <minecraft:clay>, <minecraft:obsidian>, <ore:gravel>, <ore:sand>, <minecraft:gravel>]);
 recipes.addShapeless(<tconstruct:soil> * 1, [<ore:dustObsidian>, <minecraft:clay_ball>, <ore:gravel>, <ore:sand>]);
+
+## remove smelting stone and add smelting grout back in
+mods.tconstruct.Melting.removeRecipe(<liquid:stone>);
+mods.tconstruct.Melting.addRecipe(<liquid:stone> * 72,<tconstruct:soil>, 442);
