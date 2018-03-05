@@ -63,7 +63,7 @@ val oreDictEnt = <ore:listAllfruit>;
 oreDictEnt.remove(<harvestcraft:lemonitem>);
 
 # remove tower woods from planks oredict
-oreDictEnt = <ore:plankWood>;
-oreDictEnt.remove(<twilightforest:tower_wood:*>);
+val oreDictEnt2 = <ore:plankWood>;
+oreDictEnt2.remove(<twilightforest:tower_wood:*>);
 
 
